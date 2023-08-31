@@ -1,8 +1,8 @@
 {
-  "name":"Zokou-2.0",
+  "name":"Dinusha-2.0",
   "description":"bot whatsapp développé par djalega++",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
+  "logo":"https://telegra.ph/file/70da123491f14f9a64a41.jpg ",
   "repository":"https://github.com/djalega8000/Zokou-2.0",
   "succes_url":"/",
   "stack":"container",
@@ -49,7 +49,7 @@
     
     "desc": "Le nom du propriétaire",
     "required": false,
-    "value": "Zokou-2.0"
+    "value": "Dinusha-2.0"
   },
     "NUMERO_OWNER":
   {
